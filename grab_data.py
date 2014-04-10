@@ -9,6 +9,7 @@ soup = bsoup(cat_f) #bsoup version of the categories file
 sp = bsoup(sourcepg) #bsoup version of the whole featured articles source page
 #print sp.prettify()
 
+# creates the dictionary with categories as keys and lists of wiki in-category links as values
 catlinks = soup.findAll('a')
 d = {}
 i = 0
@@ -27,9 +28,10 @@ for c in catlinks:
 		d[idt].append("http://en.wikipedia.org{}".format(l['href']))
 	i += 1
 
-
+# iterates through the dictionary and writes external links from categories to files named by category
+# TODO combine with other loop (this bit takes a VERY long time to run as is)
 for k in d:
-	f = open("{}.txt".format(k),"w")
+	f = open("linkfiles/{}.txt".format(k),"w") # originally ran with plain filename, adding path in case we run this again for proper overwriting
 	for url in d[k]:
 		#f.write("{}\n".format(url))
 		resp = requests.get(url).text
@@ -38,38 +40,3 @@ for k in d:
 		for l in ext_links:
 			f.write("{}\n".format(l['href'].encode('utf-8')))
 f.close()
-
-
-
-
-
-
-## well, this works:
-# headers = sp.findAll(text=d.keys()[1])
-# print headers
-
-#for k in d:
-
-
-
-# for each text of link in p tag (that's a dictionary key)
-# AND go to the full html page with the featured source page
-
-# find all h2s and h3s
-# if the text in the span inside the h3 or h2 matches the key we're looking articles
-# get all the hrefs of the links
-# add each of those to en.wikipedia.org and we have the links of all the articles
-# for each of those add to the list value of the key in the dictionary
-# (save this or write it to a json file) ---- STOP NUMBER ONE
-
-# for each key in the dictionary
-# the name of each article is (for each value in the list v) -- v[6:].strip()
-# using the name we can find the url
-
-# compose each url in the list
-# use requests to grab the source of each url
-
-# for each article, save file whose name is category + "-" + the article name
-
-
-
