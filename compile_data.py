@@ -12,10 +12,10 @@ for x in os.listdir("linkfiles"):
 			if fd[1]:
 				# currently getting full domain name i.e. books.google.com
 				# TODO write code here to get just "google" from that or w/e
-
-				if fd[1] in domains:
-					catdomains[fd[1]] += 1
+				lp = fd[1].strip().lower()
+				if lp in domains:
+					catdomains[lp] += 1
 				else:
-					catdomains[fd[1]] = 1
+					catdomains[lp] = 1
 		fj.write(str(catdomains))
 
