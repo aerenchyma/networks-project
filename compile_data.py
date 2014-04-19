@@ -13,7 +13,7 @@ for domain in dms:
 # #domains = {}
 for x in os.listdir("linkfiles"): 
 	if x[-4:] == ".txt":
-		fj = open('linkfiles/{}.json'.format(x[:-4]),'w')
+		fj = open('linkfiles/{}-ORIGV.json'.format(x[:-4]),'w')
 		catdomains = {}
 		f = open(x,"r").readlines() # f is list of url strings
 		for l in f:
@@ -22,20 +22,25 @@ for x in os.listdir("linkfiles"):
 				dm = fd[1].replace("www.","")
 				# 
 				lp = dm.strip().lower()
-				for d in dms:
-					#BELOW IS LOGIC FOR SUBDOMAINS
-					if lp.endswith(d):
-						if len(lp.split(".")) > 4:
-							finald = ".".join(lp.split(".")[1:]).strip()
-						else:
-							finald = lp.strip()
-					else:
-						if len(lp.split(".")) >= 3:
-							finald = ".".join(lp.split(".")[1:]).strip()
-						else:
-							finald = lp.strip()
+				#BELOW IS LOGIC FOR SUBDOMAINS
+				# for d in dms:
+					
+				# 	if lp.endswith(d):
+				# 		if len(lp.split(".")) > 4:
+				# 			finald = ".".join(lp.split(".")[1:]).strip()
+				# 		else:
+				# 			finald = lp.strip()
+				# 	else:
+				# 		if len(lp.split(".")) >= 3:
+				# 			finald = ".".join(lp.split(".")[1:]).strip()
+				# 		else:
+				# 			finald = lp.strip()
 				
 				#print finald
+				finald = lp
+
+
+
 				if finald in catdomains:
 					catdomains[finald] += 1
 				else:
