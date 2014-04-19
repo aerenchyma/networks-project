@@ -1,7 +1,16 @@
 import os, re
 import urlparse
 
-domains = {}
+tpd = open("two_part_domains.txt").readlines()
+dms = [x.strip().rstrip() for x in tpd if x != '']
+print dms
+# just in case we need dict speed lookup... (below, dmsdict)
+dmsdict = {}
+for domain in dms:
+	if domain not in dmsdict:
+ 		dmsdict[domain] = 0
+
+# #domains = {}
 for x in os.listdir("linkfiles"): 
 	if x[-4:] == ".txt":
 		fj = open('linkfiles/{}.json'.format(x[:-4]),'w')
@@ -10,12 +19,32 @@ for x in os.listdir("linkfiles"):
 		for l in f:
 			fd = urlparse.urlparse(l)
 			if fd[1]:
-				# currently getting full domain name i.e. books.google.com
-				# TODO write code here to get just "google" from that or w/e
-				lp = fd[1].strip().lower()
-				if lp in domains:
-					catdomains[lp] += 1
+				dm = fd[1].replace("www.","")
+				# 
+				lp = dm.strip().lower()
+				for d in dms:
+					#BELOW IS LOGIC FOR SUBDOMAINS
+					if lp.endswith(d):
+						if len(lp.split(".")) > 4:
+							finald = ".".join(lp.split(".")[1:]).strip()
+						else:
+							finald = lp.strip()
+					else:
+						if len(lp.split(".")) >= 3:
+							finald = ".".join(lp.split(".")[1:]).strip()
+						else:
+							finald = lp.strip()
+				
+				#print finald
+				if finald in catdomains:
+					catdomains[finald] += 1
 				else:
-					catdomains[lp] = 1
-		fj.write(str(catdomains))
+					catdomains[finald] = 1
+
+
+		final_catdomains = {}
+		for k in catdomains:
+			if catdomains[k] > 1:
+				final_catdomains[k] = catdomains[k]
+		fj.write(str(final_catdomains))
 
