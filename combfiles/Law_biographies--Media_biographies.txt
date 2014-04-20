@@ -1,0 +1,11 @@
+archive.org
+jstor.org
+cnn.com
+d-nb.info
+nytimes.com
+idref.fr
+bbc.co.uk
+viaf.org
+washingtonpost.com
+worldcat.org
+webcitation.org

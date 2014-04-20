@@ -1,0 +1,8 @@
+jstor.org
+worldcat.org
+oxforddnb.com
+timesonline.co.uk
+viaf.org
+archive.org
+time.com
+d-nb.info

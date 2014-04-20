@@ -1,0 +1,12 @@
+royalsociety.org
+idref.fr
+viaf.org
+archive.org
+jstor.org
+d-nb.info
+nobelprize.org
+worldcat.org
+nytimes.com
+google.com
+webcitation.org
+stanford.edu

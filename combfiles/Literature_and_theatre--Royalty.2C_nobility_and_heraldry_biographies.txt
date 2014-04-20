@@ -1,0 +1,15 @@
+nlm.nih.gov
+nobelprize.org
+loc.gov
+imdb.com
+archive.org
+time.com
+webcitation.org
+youtube.com
+nytimes.com
+pbs.org
+fas.org
+google.com
+jstor.org
+viaf.org
+worldcat.org

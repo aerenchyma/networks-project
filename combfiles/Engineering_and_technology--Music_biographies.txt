@@ -1,0 +1,9 @@
+jstor.org
+arxiv.org
+nlm.nih.gov
+lbl.gov
+nist.gov
+worldcat.org
+youtube.com
+archive.org
+google.com

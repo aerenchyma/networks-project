@@ -1,0 +1,9 @@
+loc.gov
+archive.org
+britannica.com
+measuringworth.org
+oxforddnb.com
+parliament.uk
+jstor.org
+bbc.co.uk
+worldcat.org

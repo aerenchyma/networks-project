@@ -1,0 +1,15 @@
+d-nb.info
+loc.gov
+imdb.com
+oxforddnb.com
+archive.org
+time.com
+britannica.com
+idref.fr
+nytimes.com
+oup.com
+webcitation.org
+timesonline.co.uk
+latimes.com
+viaf.org
+worldcat.org

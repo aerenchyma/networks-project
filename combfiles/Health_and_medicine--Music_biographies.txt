@@ -1,0 +1,9 @@
+umich.edu
+dartmouth.edu
+lib.umich.edu
+loc.gov
+archive.org
+youtube.com
+jstor.org
+dmoz.org
+worldcat.org

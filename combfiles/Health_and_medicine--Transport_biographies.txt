@@ -1,0 +1,15 @@
+ucr.edu
+loc.gov
+imdb.com
+oxforddnb.com
+archive.org
+time.com
+ox.ac.uk
+britannica.com
+webcitation.org
+nytimes.com
+oup.com
+jstor.org
+timesonline.co.uk
+viaf.org
+worldcat.org

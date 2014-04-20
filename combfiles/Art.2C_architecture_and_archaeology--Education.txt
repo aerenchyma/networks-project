@@ -1,0 +1,8 @@
+loc.gov
+time.com
+amazon.com
+cnn.com
+nytimes.com
+jstor.org
+bbc.co.uk
+worldcat.org

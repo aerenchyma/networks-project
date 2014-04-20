@@ -1,0 +1,12 @@
+nps.gov
+archive.org
+cnn.com
+nytimes.com
+flickr.com
+nature.com
+time.com
+youtube.com
+bbc.co.uk
+worldcat.org
+webcitation.org
+cbsnews.com

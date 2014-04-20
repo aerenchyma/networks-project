@@ -1,0 +1,11 @@
+imdb.com
+archive.org
+pbs.org
+time.com
+webcitation.org
+youtube.com
+stanford.edu
+nytimes.com
+google.com
+jstor.org
+worldcat.org

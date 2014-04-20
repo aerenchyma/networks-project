@@ -1,0 +1,6 @@
+archive.org
+jstor.org
+worldcat.org
+nytimes.com
+bbc.co.uk
+webcitation.org

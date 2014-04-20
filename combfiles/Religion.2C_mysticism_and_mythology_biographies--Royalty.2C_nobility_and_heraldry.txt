@@ -1,0 +1,7 @@
+jstor.org
+amazon.com
+ucl.ac.uk
+springerlink.com
+worldcat.org
+gutenberg.org
+mit.edu

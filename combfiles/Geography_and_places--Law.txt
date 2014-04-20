@@ -1,0 +1,8 @@
+nytimes.com
+time.com
+bbc.co.uk
+worldcat.org
+webcitation.org
+cbsnews.com
+youtube.com
+adsabs.harvard.edu

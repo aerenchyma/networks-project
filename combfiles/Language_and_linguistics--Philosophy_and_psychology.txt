@@ -1,0 +1,11 @@
+nytimes.com
+jstor.org
+bbc.co.uk
+measuringworth.com
+worldcat.org
+loc.gov
+oxforddnb.com
+webcitation.org
+virginia.edu
+archive.org
+gutenberg.org

@@ -1,0 +1,8 @@
+nytimes.com
+amazon.com
+bbc.co.uk
+foxnews.com
+washingtonpost.com
+worldcat.org
+webcitation.org
+cbsnews.com

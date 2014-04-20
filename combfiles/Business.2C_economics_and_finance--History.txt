@@ -1,0 +1,12 @@
+idref.fr
+viaf.org
+archive.org
+jstor.org
+newscientist.com
+springerlink.com
+worldcat.org
+nytimes.com
+google.com
+bbc.co.uk
+webcitation.org
+stanford.edu

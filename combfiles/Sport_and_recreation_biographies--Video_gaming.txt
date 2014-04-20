@@ -1,0 +1,13 @@
+loc.gov
+oxforddnb.com
+archive.org
+fordham.edu
+britannica.com
+youtube.com
+nationalarchives.gov.uk
+parliament.uk
+google.com
+jstor.org
+cbc.ca
+bbc.co.uk
+worldcat.org

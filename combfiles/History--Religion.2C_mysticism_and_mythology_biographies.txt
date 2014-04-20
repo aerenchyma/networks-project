@@ -1,0 +1,9 @@
+springerlink.com
+idref.fr
+archive.org
+guardian.co.uk
+jstor.org
+viaf.org
+worldcat.org
+loc.gov
+google.com

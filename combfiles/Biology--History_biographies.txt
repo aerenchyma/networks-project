@@ -1,0 +1,14 @@
+archive.org
+jstor.org
+newscientist.com
+nytimes.com
+etymonline.com
+nlm.nih.gov
+bbc.co.uk
+fda.gov
+youtube.com
+worldcat.org
+gutenberg.org
+webcitation.org
+fao.org
+msu.edu

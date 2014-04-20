@@ -1,0 +1,7 @@
+jstor.org
+amazon.com
+idref.fr
+viaf.org
+worldcat.org
+d-nb.info
+gutenberg.org

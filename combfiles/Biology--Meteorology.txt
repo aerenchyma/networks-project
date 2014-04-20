@@ -1,0 +1,16 @@
+archive.org
+oed.com
+jstor.org
+nytimes.com
+web.archive.org
+nobelprize.org
+bbc.co.uk
+youtube.com
+telegraph.co.uk
+pbs.org
+worldcat.org
+gutenberg.org
+npr.org
+webcitation.org
+guardian.co.uk
+dmoz.org

@@ -1,0 +1,13 @@
+idref.fr
+archive.org
+nytimes.com
+latimes.com
+time.com
+jstor.org
+viaf.org
+britannica.com
+worldcat.org
+webcitation.org
+loc.gov
+imdb.com
+google.com

@@ -1,0 +1,8 @@
+imdb.com
+time.com
+britannica.com
+webcitation.org
+nytimes.com
+google.com
+jstor.org
+worldcat.org

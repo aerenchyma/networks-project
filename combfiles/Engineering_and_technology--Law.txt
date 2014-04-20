@@ -1,0 +1,11 @@
+nytimes.com
+nlm.nih.gov
+nature.com
+time.com
+bbc.co.uk
+worldcat.org
+youtube.com
+archive.org
+adsabs.harvard.edu
+google.com
+sciencedirect.com

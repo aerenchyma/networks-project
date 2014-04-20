@@ -1,0 +1,12 @@
+findarticles.com
+oxforddnb.com
+archive.org
+jstor.org
+worldcat.org
+nytimes.com
+guardian.co.uk
+time.com
+amazon.com
+boston.com
+bbc.co.uk
+webcitation.org

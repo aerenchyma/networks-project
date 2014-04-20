@@ -1,0 +1,13 @@
+nps.gov
+loc.gov
+stanford.edu
+archive.org
+academia.edu
+webcitation.org
+nla.gov.au
+nytimes.com
+pbs.org
+jstor.org
+bbc.co.uk
+worldcat.org
+sciencedirect.com

@@ -1,0 +1,10 @@
+findarticles.com
+nytimes.com
+time.com
+amazon.com
+bbc.co.uk
+archive.is
+worldcat.org
+webcitation.org
+youtube.com
+stanford.edu

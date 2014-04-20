@@ -1,0 +1,13 @@
+nap.edu
+aip.org
+imdb.com
+time.com
+webcitation.org
+youtube.com
+nytimes.com
+pbs.org
+google.com
+jstor.org
+nasa.gov
+worldcat.org
+royalsociety.org

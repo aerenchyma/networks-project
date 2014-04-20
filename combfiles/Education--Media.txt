@@ -1,0 +1,6 @@
+jstor.org
+senate.gov
+nytimes.com
+time.com
+usatoday.com
+worldcat.org

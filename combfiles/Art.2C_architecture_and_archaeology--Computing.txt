@@ -1,0 +1,8 @@
+loc.gov
+archive.org
+time.com
+nytimes.com
+oxforddnb.com
+jstor.org
+english-heritage.org.uk
+worldcat.org

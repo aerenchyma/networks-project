@@ -1,0 +1,8 @@
+jstor.org
+idref.fr
+archive.org
+nytimes.com
+d-nb.info
+viaf.org
+worldcat.org
+webcitation.org

@@ -1,0 +1,17 @@
+archive.org
+jstor.org
+biodiversitylibrary.org
+newscientist.com
+talkorigins.org
+nytimes.com
+nlm.nih.gov
+nobelprize.org
+pnas.org
+springerlink.com
+worldcat.org
+gutenberg.org
+webcitation.org
+wku.edu
+genetics.org
+nature.com
+amjbot.org

@@ -1,0 +1,10 @@
+sfgate.com
+loc.gov
+archive.org
+amazon.com
+boston.com
+google.com
+jstor.org
+guardian.co.uk
+worldcat.org
+gutenberg.org

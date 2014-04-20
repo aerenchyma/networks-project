@@ -1,0 +1,10 @@
+sfgate.com
+d-nb.info
+loc.gov
+archive.org
+guardian.co.uk
+amazon.com
+idref.fr
+boston.com
+viaf.org
+worldcat.org

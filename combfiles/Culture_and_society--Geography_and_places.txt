@@ -1,0 +1,12 @@
+findarticles.com
+internetnews.com
+wired.com
+microsoft.com
+pcworld.com
+cnn.com
+nytimes.com
+worldcat.org
+youtube.com
+pcmag.com
+bbc.co.uk
+infoworld.com

@@ -1,0 +1,5 @@
+jstor.org
+washingtonpost.com
+worldcat.org
+sfgate.com
+webcitation.org

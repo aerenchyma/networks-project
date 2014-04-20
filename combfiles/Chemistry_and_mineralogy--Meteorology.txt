@@ -1,0 +1,9 @@
+jstor.org
+washingtonpost.com
+web.archive.org
+post-gazette.com
+worldcat.org
+gutenberg.org
+sfgate.com
+salon.com
+webcitation.org

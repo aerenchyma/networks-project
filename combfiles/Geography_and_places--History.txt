@@ -1,0 +1,11 @@
+findarticles.com
+nytimes.com
+arstechnica.com
+time.com
+bbc.co.uk
+wired.com
+worldcat.org
+webcitation.org
+youtube.com
+llnl.gov
+stanford.edu

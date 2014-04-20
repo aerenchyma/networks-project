@@ -1,0 +1,10 @@
+idref.fr
+archive.org
+nytimes.com
+bbc.co.uk
+jstor.org
+viaf.org
+worldcat.org
+webcitation.org
+loc.gov
+google.com

@@ -1,0 +1,10 @@
+loc.gov
+stanford.edu
+archive.org
+webcitation.org
+nytimes.com
+oxforddnb.com
+measuringworth.com
+jstor.org
+bbc.co.uk
+worldcat.org

@@ -1,0 +1,9 @@
+archive.org
+jstor.org
+biodiversitylibrary.org
+worldcat.org
+nytimes.com
+bbc.co.uk
+unesco.org
+webcitation.org
+nla.gov.au

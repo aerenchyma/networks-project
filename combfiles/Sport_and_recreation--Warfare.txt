@@ -1,0 +1,15 @@
+findarticles.com
+oxforddnb.com
+archive.org
+nytimes.com
+time.com
+amazon.com
+bbc.co.uk
+jstor.org
+parliament.uk
+youtube.com
+questia.com
+pbs.org
+worldcat.org
+webcitation.org
+google.com

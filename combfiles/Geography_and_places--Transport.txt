@@ -1,0 +1,12 @@
+nytimes.com
+guardian.co.uk
+time.com
+amazon.com
+bbc.co.uk
+foxnews.com
+washingtonpost.com
+wired.com
+worldcat.org
+webcitation.org
+youtube.com
+stanford.edu

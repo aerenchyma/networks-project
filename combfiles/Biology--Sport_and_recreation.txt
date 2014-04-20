@@ -1,0 +1,10 @@
+archive.org
+jstor.org
+nytimes.com
+bbc.co.uk
+youtube.com
+pbs.org
+worldcat.org
+npr.org
+webcitation.org
+guardian.co.uk

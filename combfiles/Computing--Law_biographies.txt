@@ -1,0 +1,7 @@
+jstor.org
+worldcat.org
+viaf.org
+archive.org
+time.com
+bbc.co.uk
+d-nb.info

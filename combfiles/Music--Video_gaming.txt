@@ -1,0 +1,11 @@
+loc.gov
+oxforddnb.com
+archive.org
+britannica.com
+youtube.com
+measuringworth.org
+nationalarchives.gov.uk
+jstor.org
+cbc.ca
+bbc.co.uk
+worldcat.org

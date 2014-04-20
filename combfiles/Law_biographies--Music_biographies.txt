@@ -1,0 +1,7 @@
+archive.org
+jstor.org
+nlm.nih.gov
+straightdope.com
+worldcat.org
+gutenberg.org
+dmoz.org

@@ -1,0 +1,9 @@
+loc.gov
+stanford.edu
+archive.org
+webcitation.org
+measuringworth.org
+nytimes.com
+oxforddnb.com
+jstor.org
+worldcat.org

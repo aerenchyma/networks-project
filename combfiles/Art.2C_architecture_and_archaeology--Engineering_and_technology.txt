@@ -1,0 +1,15 @@
+loc.gov
+stanford.edu
+archive.org
+time.com
+nist.gov
+britannica.com
+economist.com
+ncbi.nlm.nih.gov
+nytimes.com
+pbs.org
+jstor.org
+highbeam.com
+bbc.co.uk
+worldcat.org
+sciencedirect.com

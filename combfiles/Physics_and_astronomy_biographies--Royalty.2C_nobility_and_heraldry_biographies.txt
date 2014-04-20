@@ -1,0 +1,12 @@
+d-nb.info
+loc.gov
+imdb.com
+archive.org
+time.com
+youtube.com
+idref.fr
+nytimes.com
+webcitation.org
+pbs.org
+viaf.org
+worldcat.org

@@ -1,0 +1,15 @@
+jstor.org
+reuters.com
+nytimes.com
+theatlantic.com
+time.com
+bbc.co.uk
+washingtonpost.com
+pbs.org
+fas.org
+worldcat.org
+youtube.com
+archive.org
+google.com
+msnbc.msn.com
+economist.com

@@ -1,0 +1,5 @@
+jstor.org
+nytimes.com
+time.com
+usatoday.com
+worldcat.org

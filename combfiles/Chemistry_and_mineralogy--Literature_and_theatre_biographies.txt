@@ -1,0 +1,7 @@
+jstor.org
+nla.gov.au
+washingtonpost.com
+worldcat.org
+gutenberg.org
+sfgate.com
+webcitation.org

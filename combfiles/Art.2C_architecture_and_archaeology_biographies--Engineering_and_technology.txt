@@ -1,0 +1,8 @@
+archive.org
+jstor.org
+ncbi.nlm.nih.gov
+worldcat.org
+highbeam.com
+nytimes.com
+time.com
+bbc.co.uk

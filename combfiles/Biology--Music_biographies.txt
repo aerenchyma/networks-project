@@ -1,0 +1,8 @@
+archive.org
+jstor.org
+nlm.nih.gov
+youtube.com
+worldcat.org
+gutenberg.org
+dmoz.org
+arxiv.org

@@ -1,0 +1,13 @@
+findarticles.com
+microsoft.com
+huffingtonpost.com
+highbeam.com
+reuters.com
+seattletimes.nwsource.com
+cnn.com
+guardian.co.uk
+nytimes.com
+worldcat.org
+usatoday.com
+youtube.com
+bbc.co.uk

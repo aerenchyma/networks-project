@@ -1,0 +1,5 @@
+cnn.com
+nytimes.com
+worldcat.org
+youtube.com
+bbc.co.uk

@@ -1,0 +1,13 @@
+idref.fr
+archive.org
+jstor.org
+d-nb.info
+guardian.co.uk
+sfgate.com
+gutenberg.org
+amazon.com
+boston.com
+worldcat.org
+viaf.org
+loc.gov
+google.com

@@ -1,0 +1,12 @@
+archive.org
+jstor.org
+nytimes.com
+nps.gov
+nlm.nih.gov
+bbc.co.uk
+youtube.com
+pbs.org
+worldcat.org
+gutenberg.org
+npr.org
+guardian.co.uk

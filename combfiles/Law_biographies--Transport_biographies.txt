@@ -1,0 +1,11 @@
+archive.org
+jstor.org
+d-nb.info
+nytimes.com
+idref.fr
+time.com
+viaf.org
+worldcat.org
+gutenberg.org
+webcitation.org
+openlibrary.org

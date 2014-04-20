@@ -1,0 +1,12 @@
+findarticles.com
+archive.org
+jstor.org
+ncbi.nlm.nih.gov
+worldcat.org
+nytimes.com
+idref.fr
+d-nb.info
+time.com
+bbc.co.uk
+viaf.org
+webcitation.org

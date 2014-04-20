@@ -1,0 +1,9 @@
+sfgate.com
+loc.gov
+stanford.edu
+archive.org
+guardian.co.uk
+amazon.com
+boston.com
+jstor.org
+worldcat.org

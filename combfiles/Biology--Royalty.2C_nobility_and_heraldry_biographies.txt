@@ -1,0 +1,10 @@
+archive.org
+jstor.org
+nytimes.com
+nlm.nih.gov
+nobelprize.org
+youtube.com
+pbs.org
+worldcat.org
+webcitation.org
+arxiv.org

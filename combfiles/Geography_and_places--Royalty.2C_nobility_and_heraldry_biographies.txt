@@ -1,0 +1,7 @@
+nytimes.com
+time.com
+worldcat.org
+webcitation.org
+youtube.com
+llnl.gov
+stanford.edu

@@ -1,0 +1,17 @@
+findarticles.com
+oxforddnb.com
+archive.org
+jstor.org
+worldcat.org
+highbeam.com
+nytimes.com
+idref.fr
+oup.com
+d-nb.info
+time.com
+amazon.com
+measuringworth.org
+bbc.co.uk
+getty.edu
+viaf.org
+webcitation.org

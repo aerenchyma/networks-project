@@ -1,0 +1,11 @@
+amazon.com
+d-nb.info
+loc.gov
+archive.org
+guardian.co.uk
+idref.fr
+boston.com
+jstor.org
+viaf.org
+worldcat.org
+gutenberg.org

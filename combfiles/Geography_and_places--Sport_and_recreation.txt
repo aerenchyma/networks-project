@@ -1,0 +1,13 @@
+findarticles.com
+nytimes.com
+guardian.co.uk
+time.com
+amazon.com
+bbc.co.uk
+foxnews.com
+washingtonpost.com
+worldcat.org
+webcitation.org
+cbsnews.com
+youtube.com
+ft.com

@@ -1,0 +1,10 @@
+jstor.org
+mathpages.com
+archive.org
+worldcat.org
+bbc.co.uk
+arxiv.org
+nytimes.com
+adsabs.harvard.edu
+gutenberg.org
+webcitation.org

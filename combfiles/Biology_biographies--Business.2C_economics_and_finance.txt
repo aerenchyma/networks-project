@@ -1,0 +1,17 @@
+archive.org
+biodiversitylibrary.org
+springerlink.com
+webcitation.org
+stanford.edu
+nature.com
+newscientist.com
+nytimes.com
+bucknell.edu
+google.com
+jstor.org
+pnas.org
+amnh.org
+washingtonpost.com
+worldcat.org
+gutenberg.org
+talkorigins.org

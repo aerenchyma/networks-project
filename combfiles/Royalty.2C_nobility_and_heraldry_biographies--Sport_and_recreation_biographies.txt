@@ -1,0 +1,16 @@
+jstor.org
+worldcat.org
+idref.fr
+viaf.org
+archive.org
+nla.gov.au
+pbs.org
+fas.org
+nobelprize.org
+nytimes.com
+d-nb.info
+imdb.com
+time.com
+youtube.com
+webcitation.org
+americanheritage.com

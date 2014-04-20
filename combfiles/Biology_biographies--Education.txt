@@ -1,0 +1,9 @@
+time.com
+amazon.com
+cnn.com
+nytimes.com
+google.com
+jstor.org
+usatoday.com
+bbc.co.uk
+worldcat.org

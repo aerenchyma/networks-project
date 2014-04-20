@@ -1,0 +1,15 @@
+findarticles.com
+nytimes.com
+time.com
+amazon.com
+bbc.co.uk
+washingtonpost.com
+wired.com
+archive.is
+worldcat.org
+webcitation.org
+cbsnews.com
+youtube.com
+llnl.gov
+adsabs.harvard.edu
+stanford.edu

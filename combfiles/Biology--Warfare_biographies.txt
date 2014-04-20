@@ -1,0 +1,14 @@
+archive.org
+jstor.org
+nytimes.com
+nlm.nih.gov
+bbc.co.uk
+youtube.com
+telegraph.co.uk
+pbs.org
+worldcat.org
+gutenberg.org
+npr.org
+webcitation.org
+guardian.co.uk
+dmoz.org

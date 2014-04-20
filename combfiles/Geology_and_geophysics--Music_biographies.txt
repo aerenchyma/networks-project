@@ -1,0 +1,6 @@
+archive.org
+jstor.org
+youtube.com
+worldcat.org
+gutenberg.org
+lib.umich.edu

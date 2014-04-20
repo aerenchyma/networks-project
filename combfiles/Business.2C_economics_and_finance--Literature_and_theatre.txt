@@ -1,0 +1,16 @@
+oxforddnb.com
+ucl.ac.uk
+viaf.org
+archive.org
+jstor.org
+web.archive.org
+librivox.org
+washingtonpost.com
+measuringworth.org
+nobelprize.org
+worldcat.org
+nytimes.com
+gutenberg.org
+google.com
+bbc.co.uk
+webcitation.org

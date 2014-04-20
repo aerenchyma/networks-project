@@ -1,0 +1,17 @@
+oxforddnb.com
+viaf.org
+pnas.org
+nature.com
+archive.org
+jstor.org
+washingtonpost.com
+d-nb.info
+worldcat.org
+guardian.co.uk
+nytimes.com
+talkorigins.org
+gutenberg.org
+google.com
+bbc.co.uk
+webcitation.org
+stanford.edu

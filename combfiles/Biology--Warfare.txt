@@ -1,0 +1,13 @@
+archive.org
+oed.com
+jstor.org
+nytimes.com
+nlm.nih.gov
+cambridge.org
+bbc.co.uk
+sciencemag.org
+youtube.com
+pbs.org
+worldcat.org
+gutenberg.org
+webcitation.org

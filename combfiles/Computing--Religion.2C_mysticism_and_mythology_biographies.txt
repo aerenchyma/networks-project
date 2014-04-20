@@ -1,0 +1,5 @@
+jstor.org
+worldcat.org
+viaf.org
+archive.org
+d-nb.info

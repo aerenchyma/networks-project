@@ -1,0 +1,10 @@
+sfgate.com
+archive.org
+guardian.co.uk
+amazon.com
+springerlink.com
+stanford.edu
+google.com
+jstor.org
+worldcat.org
+gutenberg.org

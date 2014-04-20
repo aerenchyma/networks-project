@@ -1,0 +1,16 @@
+jstor.org
+theatlantic.com
+theglobeandmail.com
+archive.org
+highbeam.com
+web.archive.org
+telegraph.co.uk
+accessmylibrary.com
+bbc.co.uk
+nytimes.com
+archive.is
+worldcat.org
+gutenberg.org
+google.com
+youtube.com
+webcitation.org

@@ -1,0 +1,16 @@
+idref.fr
+archive.org
+jstor.org
+d-nb.info
+nytimes.com
+imdb.com
+time.com
+americanheritage.com
+worldcat.org
+viaf.org
+webcitation.org
+youtube.com
+fas.org
+pbs.org
+loc.gov
+google.com

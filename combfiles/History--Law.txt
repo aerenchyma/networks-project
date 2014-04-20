@@ -1,0 +1,10 @@
+nps.gov
+archive.org
+nytimes.com
+time.com
+bbc.co.uk
+worldcat.org
+webcitation.org
+youtube.com
+adsabs.harvard.edu
+google.com

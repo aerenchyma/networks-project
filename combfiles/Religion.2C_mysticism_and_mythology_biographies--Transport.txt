@@ -1,0 +1,9 @@
+jstor.org
+amazon.com
+philpapers.org
+viaf.org
+boston.com
+worldcat.org
+d-nb.info
+guardian.co.uk
+gutenberg.org

@@ -1,0 +1,9 @@
+nlm.nih.gov
+dartmouth.edu
+loc.gov
+archive.org
+youtube.com
+google.com
+jstor.org
+worldcat.org
+gutenberg.org

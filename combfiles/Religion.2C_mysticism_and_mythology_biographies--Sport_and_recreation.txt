@@ -1,0 +1,6 @@
+sfgate.com
+jstor.org
+amazon.com
+boston.com
+worldcat.org
+guardian.co.uk

@@ -1,0 +1,8 @@
+loc.gov
+oxforddnb.com
+archive.org
+britannica.com
+youtube.com
+jstor.org
+bbc.co.uk
+worldcat.org

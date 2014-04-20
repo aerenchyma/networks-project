@@ -1,0 +1,12 @@
+loc.gov
+americanheritage.com
+imdb.com
+archive.org
+time.com
+webcitation.org
+youtube.com
+nytimes.com
+pbs.org
+google.com
+jstor.org
+worldcat.org

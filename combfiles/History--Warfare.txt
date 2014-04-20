@@ -1,0 +1,17 @@
+findarticles.com
+idref.fr
+archive.org
+highbeam.com
+nytimes.com
+time.com
+bbc.co.uk
+jstor.org
+viaf.org
+pbs.org
+britannica.com
+worldcat.org
+webcitation.org
+youtube.com
+loc.gov
+imdb.com
+google.com

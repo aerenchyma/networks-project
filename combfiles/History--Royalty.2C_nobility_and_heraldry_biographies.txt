@@ -1,0 +1,15 @@
+idref.fr
+archive.org
+nasa.gov
+nytimes.com
+time.com
+jstor.org
+viaf.org
+pbs.org
+worldcat.org
+webcitation.org
+youtube.com
+fas.org
+loc.gov
+imdb.com
+google.com

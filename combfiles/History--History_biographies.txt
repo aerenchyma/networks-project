@@ -1,0 +1,14 @@
+findarticles.com
+secinfo.com
+archive.org
+newscientist.com
+highbeam.com
+nytimes.com
+latimes.com
+bbc.co.uk
+jstor.org
+worldcat.org
+webcitation.org
+youtube.com
+loc.gov
+google.com

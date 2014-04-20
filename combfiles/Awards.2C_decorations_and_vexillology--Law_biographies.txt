@@ -1,0 +1,10 @@
+jstor.org
+archive.org
+worldcat.org
+nytimes.com
+cbc.ca
+time.com
+bbc.co.uk
+ndl.go.jp
+britannica.com
+webcitation.org

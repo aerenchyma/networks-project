@@ -1,0 +1,17 @@
+jstor.org
+nasa.gov
+arxiv.org
+nytimes.com
+nlm.nih.gov
+orau.org
+time.com
+llnl.gov
+pbs.org
+nap.edu
+fas.org
+aip.org
+worldcat.org
+youtube.com
+archive.org
+nobelprize.org
+google.com

@@ -1,0 +1,11 @@
+dartmouth.edu
+loc.gov
+oxforddnb.com
+archive.org
+ox.ac.uk
+webcitation.org
+nytimes.com
+jstor.org
+bbc.co.uk
+viaf.org
+worldcat.org

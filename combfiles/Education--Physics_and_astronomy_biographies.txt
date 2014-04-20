@@ -1,0 +1,5 @@
+nytimes.com
+time.com
+amazon.com
+usatoday.com
+worldcat.org

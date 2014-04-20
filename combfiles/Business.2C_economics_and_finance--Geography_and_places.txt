@@ -1,0 +1,8 @@
+archive.org
+washingtonpost.com
+worldcat.org
+nytimes.com
+google.com
+bbc.co.uk
+webcitation.org
+stanford.edu

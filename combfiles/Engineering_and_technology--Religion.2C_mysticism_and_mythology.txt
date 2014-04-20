@@ -1,0 +1,17 @@
+jstor.org
+reuters.com
+highbeam.com
+nytimes.com
+nlm.nih.gov
+theatlantic.com
+time.com
+bbc.co.uk
+washingtonpost.com
+wired.com
+pbs.org
+britannica.com
+worldcat.org
+youtube.com
+archive.org
+google.com
+msnbc.msn.com

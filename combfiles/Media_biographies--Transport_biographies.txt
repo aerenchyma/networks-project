@@ -1,0 +1,10 @@
+jstor.org
+idref.fr
+oxforddnb.com
+archive.org
+nytimes.com
+d-nb.info
+oup.com
+viaf.org
+worldcat.org
+webcitation.org

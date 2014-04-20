@@ -1,0 +1,6 @@
+jstor.org
+idref.fr
+viaf.org
+worldcat.org
+d-nb.info
+mit.edu

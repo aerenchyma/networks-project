@@ -1,0 +1,12 @@
+archive.org
+jstor.org
+d-nb.info
+guardian.co.uk
+nlm.nih.gov
+idref.fr
+who.int
+viaf.org
+stanford.edu
+springerlink.com
+worldcat.org
+gutenberg.org

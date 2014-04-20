@@ -1,0 +1,5 @@
+nytimes.com
+bbc.co.uk
+worldcat.org
+webcitation.org
+stanford.edu

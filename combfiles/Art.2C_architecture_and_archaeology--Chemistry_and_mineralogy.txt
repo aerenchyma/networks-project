@@ -1,0 +1,10 @@
+sfgate.com
+cia.gov
+loc.gov
+archive.org
+webcitation.org
+nytimes.com
+jstor.org
+salon.com
+bbc.co.uk
+worldcat.org

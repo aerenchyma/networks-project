@@ -1,0 +1,11 @@
+nobelprize.org
+imdb.com
+archive.org
+nytimes.com
+time.com
+webcitation.org
+youtube.com
+pbs.org
+google.com
+jstor.org
+worldcat.org

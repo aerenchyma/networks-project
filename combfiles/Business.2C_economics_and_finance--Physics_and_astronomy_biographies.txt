@@ -1,0 +1,14 @@
+idref.fr
+oxforddnb.com
+viaf.org
+archive.org
+web.archive.org
+washingtonpost.com
+d-nb.info
+worldcat.org
+guardian.co.uk
+nytimes.com
+google.com
+bbc.co.uk
+webcitation.org
+newyorker.com

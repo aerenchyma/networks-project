@@ -1,0 +1,13 @@
+nytimes.com
+time.com
+amazon.com
+bbc.co.uk
+web.archive.org
+foxnews.com
+washingtonpost.com
+telegraph.co.uk
+archive.is
+worldcat.org
+webcitation.org
+youtube.com
+ft.com

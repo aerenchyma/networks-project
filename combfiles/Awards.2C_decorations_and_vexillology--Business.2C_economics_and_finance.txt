@@ -1,0 +1,6 @@
+jstor.org
+archive.org
+worldcat.org
+nytimes.com
+ndl.go.jp
+webcitation.org

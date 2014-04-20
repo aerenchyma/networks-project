@@ -1,0 +1,9 @@
+loc.gov
+stanford.edu
+archive.org
+time.com
+webcitation.org
+nytimes.com
+pbs.org
+jstor.org
+worldcat.org

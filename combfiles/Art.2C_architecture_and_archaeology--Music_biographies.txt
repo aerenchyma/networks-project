@@ -1,0 +1,5 @@
+loc.gov
+archive.org
+nist.gov
+jstor.org
+worldcat.org

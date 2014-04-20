@@ -1,0 +1,10 @@
+archive.org
+webcitation.org
+stanford.edu
+nytimes.com
+google.com
+jstor.org
+oed.com
+bbc.co.uk
+worldcat.org
+gutenberg.org

@@ -1,0 +1,7 @@
+loc.gov
+archive.org
+universityofcalifornia.edu
+boston.com
+jstor.org
+viaf.org
+worldcat.org

@@ -1,0 +1,9 @@
+jstor.org
+archive.org
+worldcat.org
+nytimes.com
+time.com
+ndl.go.jp
+britannica.com
+webcitation.org
+timesonline.co.uk

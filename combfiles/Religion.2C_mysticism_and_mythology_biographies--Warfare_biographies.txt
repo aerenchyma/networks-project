@@ -1,0 +1,9 @@
+sfgate.com
+jstor.org
+amazon.com
+viaf.org
+telegraph.co.uk
+boston.com
+worldcat.org
+guardian.co.uk
+gutenberg.org

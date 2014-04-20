@@ -1,0 +1,7 @@
+jstor.org
+nytimes.com
+time.com
+britannica.com
+worldcat.org
+archive.org
+google.com

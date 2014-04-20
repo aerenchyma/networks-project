@@ -1,0 +1,17 @@
+findarticles.com
+archive.org
+jstor.org
+plosone.org
+d-nb.info
+nytimes.com
+nlm.nih.gov
+idref.fr
+time.com
+bbc.co.uk
+sciencemag.org
+viaf.org
+stanford.edu
+pbs.org
+worldcat.org
+gutenberg.org
+webcitation.org

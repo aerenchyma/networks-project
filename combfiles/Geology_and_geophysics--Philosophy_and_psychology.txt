@@ -1,0 +1,12 @@
+idref.fr
+oxforddnb.com
+archive.org
+jstor.org
+nytimes.com
+d-nb.info
+measuringworth.com
+bbc.co.uk
+worldcat.org
+gutenberg.org
+webcitation.org
+viaf.org

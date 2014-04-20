@@ -1,0 +1,10 @@
+archive.org
+jstor.org
+worldcat.org
+guardian.co.uk
+idref.fr
+d-nb.info
+amazon.com
+boston.com
+viaf.org
+nybooks.com

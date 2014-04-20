@@ -1,0 +1,7 @@
+loc.gov
+archive.org
+youtube.com
+dmoz.org
+jstor.org
+worldcat.org
+gutenberg.org

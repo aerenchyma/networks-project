@@ -1,0 +1,9 @@
+archive.org
+jstor.org
+washingtonpost.com
+worldcat.org
+nytimes.com
+gutenberg.org
+google.com
+bbc.co.uk
+webcitation.org

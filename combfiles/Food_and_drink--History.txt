@@ -1,0 +1,3 @@
+viaf.org
+jstor.org
+worldcat.org

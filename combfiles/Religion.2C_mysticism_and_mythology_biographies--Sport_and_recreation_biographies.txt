@@ -1,0 +1,10 @@
+sfgate.com
+jstor.org
+amazon.com
+idref.fr
+viaf.org
+boston.com
+worldcat.org
+d-nb.info
+gutenberg.org
+nybooks.com

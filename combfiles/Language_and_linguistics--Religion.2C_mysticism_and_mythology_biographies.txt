@@ -1,0 +1,11 @@
+who.int
+jstor.org
+springerlink.com
+worldcat.org
+loc.gov
+amazon.com
+sfgate.com
+archive.org
+guardian.co.uk
+boston.com
+gutenberg.org

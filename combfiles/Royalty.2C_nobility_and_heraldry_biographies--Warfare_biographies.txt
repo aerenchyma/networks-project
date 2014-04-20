@@ -1,0 +1,11 @@
+jstor.org
+worldcat.org
+viaf.org
+archive.org
+pbs.org
+independent.co.uk
+nytimes.com
+imdb.com
+time.com
+youtube.com
+webcitation.org

@@ -1,0 +1,9 @@
+jstor.org
+archive.org
+youtube.com
+dmoz.org
+straightdope.com
+arxiv.org
+worldcat.org
+gutenberg.org
+adsabs.harvard.edu

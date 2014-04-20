@@ -1,0 +1,8 @@
+jstor.org
+idref.fr
+archive.org
+d-nb.info
+guardian.co.uk
+amazon.com
+viaf.org
+worldcat.org

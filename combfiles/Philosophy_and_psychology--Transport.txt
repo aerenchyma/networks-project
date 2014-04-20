@@ -1,0 +1,11 @@
+jstor.org
+oxforddnb.com
+archive.org
+worldcat.org
+bbc.co.uk
+nytimes.com
+d-nb.info
+guardian.co.uk
+viaf.org
+gutenberg.org
+webcitation.org

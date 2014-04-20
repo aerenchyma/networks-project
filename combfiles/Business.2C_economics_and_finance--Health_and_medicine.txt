@@ -1,0 +1,12 @@
+oxforddnb.com
+viaf.org
+archive.org
+jstor.org
+washingtonpost.com
+nobelprize.org
+worldcat.org
+nytimes.com
+google.com
+bbc.co.uk
+webcitation.org
+stanford.edu

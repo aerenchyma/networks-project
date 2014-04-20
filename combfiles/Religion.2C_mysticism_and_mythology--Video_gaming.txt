@@ -1,0 +1,11 @@
+loc.gov
+oxforddnb.com
+archive.org
+westminster-abbey.org
+youtube.com
+britannica.com
+jstor.org
+cbc.ca
+bbc.co.uk
+worldcat.org
+gg.ca

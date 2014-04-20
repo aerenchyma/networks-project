@@ -1,0 +1,14 @@
+idref.fr
+oxforddnb.com
+archive.org
+jstor.org
+nytimes.com
+oup.com
+d-nb.info
+time.com
+worldcat.org
+gutenberg.org
+webcitation.org
+britannica.com
+openlibrary.org
+viaf.org

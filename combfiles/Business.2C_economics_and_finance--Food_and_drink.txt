@@ -1,0 +1,6 @@
+viaf.org
+archive.org
+jstor.org
+d-nb.info
+worldcat.org
+google.com

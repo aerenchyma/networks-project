@@ -1,0 +1,13 @@
+findarticles.com
+wired.com
+highbeam.com
+reuters.com
+theguardian.com
+independent.co.uk
+cnn.com
+guardian.co.uk
+nytimes.com
+worldcat.org
+usatoday.com
+youtube.com
+bbc.co.uk
