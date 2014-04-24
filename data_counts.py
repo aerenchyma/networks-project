@@ -14,6 +14,24 @@ for x in cfiles:
 	for line in f:
 		total_shared.append(line.strip())
 
+totalshared = {}
+for t in total_shared:
+	if t not in totalshared:
+		totalshared[t] = 1
+	else:
+		totalshared[t] += 1
+
+totalshared_items = sorted(totalshared.items(), key=lambda x:x[1],reverse=True)
+shared_once = 0
+print "top three domains:"
+for x in totalshared_items[:3]: print x
+#print "three least common domains:"
+for y in totalshared_items:
+	if y[1] == 1:
+		shared_once += 1
+print "{} domains were 'shared' one time".format(shared_once)
+
+
 ts = set(total_shared)
 total_shared_links = len(ts) # 1103
 #print ts
@@ -42,20 +60,40 @@ fs.close()
 import powerlaw
 data = sortedwts #data can be list or Numpy array
 results = powerlaw.Fit(data,method="KS")
-print results.power_law.alpha
-print results.power_law.xmin
+print "POWER LAW FIT RESULTS"
+print "Power law alpha:",results.power_law.alpha
+print "Power law xmin:", results.power_law.xmin
+print "Power law results distribution:"
 R, p = results.distribution_compare('power_law', 'lognormal')
 print R,p
 
 # print "max",max([x[1] for x in shared_domains.items()])
 # print "min",min([x[1] for x in shared_domains.items()])
 
-# min_pairs = [k for k,v in shared_domains.items() if v == 2]
-# # for p in min_pairs:
-# # 	print 
-# print len(min_pairs)
+# find min pairs code struture
+min_pairs = [k for k,v in shared_domains.items() if v == min(v for k,v in shared_domains.items())]
+print min_pairs
+# [('Food_and_drink', 'Law'), ('Chemistry_and_mineralogy', 'Culture_and_society'), ('Culture_and_society', 'Food_and_drink'), ('Food_and_drink', 'Geography_and_places')]
 
-# BUILDING NETWORK FTW
+
+# for p in min_pairs:
+# 	print 
+#print len(min_pairs)
+
+mx = max(v for k,v in shared_domains.items())
+mx2 = max(v for k,v in shared_domains.items() if v != mx)
+max_pairs = [k for k,v in shared_domains.items() if v == max(v for k,v in shared_domains.items() if v != mx and v != mx2)]
+print max_pairs
+# max: [('Politics_and_government_biographies', 'Religion.2C_mysticism_and_mythology')]
+# second max: [('Physics_and_astronomy', 'Physics_and_astronomy_biographies')]
+# third max: [('Physics_and_astronomy', 'Religion.2C_mysticism_and_mythology')]
+
+
+
+
+
+
+# BUILDING NETWORK 
 
 cats = [x[:-4] for x in os.listdir("linkfiles") if x.endswith(".txt")] # all category namestrings
 
@@ -69,22 +107,26 @@ for key in perc_shared_domains:
 	if shared_domains[key] == 0:
 		print key
 	else:
-		G.add_edge(key[0],key[1],weight=perc_shared_domains[key]*100)#{'weight':perc_shared_domains[key]*100})
+		if perc_shared_domains[key] > (float(1)/1103)*100:
+			G.add_edge(key[0],key[1],weight=perc_shared_domains[key]*100)#{'weight':perc_shared_domains[key]*100})
 
-
-values = [int(10*(G[n[0]][n[1]]['weight'])) for n in G.edges()] # ?????
+vals = sorted([G[n[0]][n[1]]['weight'] for n in G.edges()])
+#values = [int(10*(G[n[0]][n[1]]['weight'])) for n in G.edges()] # ?????
 jet = cm = plt.get_cmap('jet') 
-cNorm  = colors.Normalize(vmin=0, vmax=values[-1])
+cNorm  = colors.Normalize(vmin=vals[0], vmax=vals[-1])
+#cNorm = colors.Normalize(vals)
 scalarMap = cmx.ScalarMappable(norm=cNorm, cmap=jet)
 
 
 colorList = []
 for i in range(len([int(G[n[0]][n[1]]['weight']) for n in G.edges()])):
-      colorVal = scalarMap.to_rgba(values[i])
+      colorVal = scalarMap.to_rgba(vals[i])
+      # print [G[n[0]][n[1]]['weight'] for n in G.edges()][i]
+      # print colorVal
       colorList.append(colorVal)
 
-
-nx.draw_random(G,edge_color=colorList,font_size="18")
+#print colorList
+nx.draw_random(G,edge_color=colorList,font_size="18",font_weight="bold",bbox="m")
 plt.show()
 
 #pos = nx.random_layout(G)
