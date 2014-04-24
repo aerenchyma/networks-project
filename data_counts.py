@@ -102,7 +102,6 @@ for categ in cats:
 	G.add_node(categ)
 #print G.nodes()
 
-
 for key in perc_shared_domains:
 	if shared_domains[key] == 0:
 		print key
