@@ -73,9 +73,10 @@ print R,p
 # find min pairs code struture
 min_pairs = [k for k,v in shared_domains.items() if v == min(v for k,v in shared_domains.items())]
 print min_pairs
+## commented here for easy access
 # [('Food_and_drink', 'Law'), ('Chemistry_and_mineralogy', 'Culture_and_society'), ('Culture_and_society', 'Food_and_drink'), ('Food_and_drink', 'Geography_and_places')]
 
-
+## checking
 # for p in min_pairs:
 # 	print 
 #print len(min_pairs)
@@ -84,14 +85,10 @@ mx = max(v for k,v in shared_domains.items())
 mx2 = max(v for k,v in shared_domains.items() if v != mx)
 max_pairs = [k for k,v in shared_domains.items() if v == max(v for k,v in shared_domains.items() if v != mx and v != mx2)]
 print max_pairs
-# max: [('Politics_and_government_biographies', 'Religion.2C_mysticism_and_mythology')]
-# second max: [('Physics_and_astronomy', 'Physics_and_astronomy_biographies')]
-# third max: [('Physics_and_astronomy', 'Religion.2C_mysticism_and_mythology')]
-
-
-
-
-
+# commented: results, for easy access
+## max: [('Politics_and_government_biographies', 'Religion.2C_mysticism_and_mythology')]
+## second max: [('Physics_and_astronomy', 'Physics_and_astronomy_biographies')]
+## third max: [('Physics_and_astronomy', 'Religion.2C_mysticism_and_mythology')]
 
 # BUILDING NETWORK 
 
@@ -127,39 +124,3 @@ for i in range(len([int(G[n[0]][n[1]]['weight']) for n in G.edges()])):
 #print colorList
 nx.draw_random(G,edge_color=colorList,font_size="18",font_weight="bold",bbox="m")
 plt.show()
-
-#pos = nx.random_layout(G)
-#elarge=[(u,v) for (u,v,d) in G.edges(data=True) if d['weight'] >0.5]
-# esmall=[(u,v) for (u,v,d) in G.edges(data=True) if d['weight'] <=0.5]
-
-
-# nx.draw_random(G,edge_color='g',font_size=18)
-# plt.show()
-
-#pos = nx.spring_layout(G)
-# nx.draw_networkx_edges(G,pos,width=) #
-
-
-# layout = nx.spring_layout(G)  # or whatever layout you wish   
-# nx.draw_spring(G)   # draw the graph, must be consistent with layout above
-# edgeLabels = {}  # dictionary of node tuples to edge labels: {(nodeX, nodeY): aString}
-# for a, b in G.edges():     # loop over all the edges
-#     edgeLabels[(a, b)] = str(G.get_edge_data(a, b, {"weight":0})["weight"])   # retrieve the edge data dictionary
-     
-# nx.draw_networkx_edge_labels(G,pos=layout, edge_labels=edgeLabels) # draw the edge labels
-# plt.show()   # show the plotting window
-
-
-# elarge=[(u,v) for (u,v,d) in G.edges(data=True) if d['weight'] >0.5]
-# esmall=[(u,v) for (u,v,d) in G.edges(data=True) if d['weight'] <=0.5]
-# pos = nx.spring_layout(G)
-# nx.draw_networkx_edges(G,pos,edgelist=elarge, width=6)
-# nx.draw_networkx_edges(G,pos,edgelist=esmall, width=6,alpha=0.5,edge_color='b',style='dashed')
-
-# # for e in G.edges(): 
-# # 	print e
-# # 	print G[e[0]][e[1]]['weight']
-
-# #nx.draw(G,nx.spectral_layout(G))
-# # nx.draw_spring(G)
-# plt.show()
