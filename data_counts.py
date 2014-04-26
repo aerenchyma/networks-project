@@ -4,6 +4,7 @@ import matplotlib.pyplot as plt
 import matplotlib.colors as colors
 import matplotlib.cm as cmx
 import numpy as np
+import powerlaw
 np.seterr(divide='ignore', invalid='ignore')
 
 # calculating info for weights n stuff
@@ -21,6 +22,26 @@ for t in total_shared:
 	else:
 		totalshared[t] += 1
 
+# get degree distribution (as it were) of shared domains
+# see degreedistr_shareddomains.txt
+res_2 = powerlaw.Fit(sorted(totalshared.values()))
+print "Power law fit values for shared domains degree distribution:"
+print res_2.power_law.alpha
+print res_2.power_law.xmin
+R, p = res_2.distribution_compare('power_law', 'lognormal')
+print R,p
+
+# make dictionary of vals amounts for other analysis ease
+valsamts = {}
+for z in totalshared.values():
+	if z not in valsamts:
+		valsamts[z] = 1
+	else:
+		valsamts[z] += 1
+
+print "# of pairs shared in -- distribution dict:"
+print valsamts
+
 totalshared_items = sorted(totalshared.items(), key=lambda x:x[1],reverse=True)
 shared_once = 0
 print "top three domains:"
@@ -36,6 +57,10 @@ ts = set(total_shared)
 total_shared_links = len(ts) # 1103
 #print ts
 #print len(ts) 
+
+# sharedcounts = {}
+# for item in ts:
+
 
 # create dictionary of shared links
 shared_domains = {}
@@ -57,7 +82,7 @@ for w in sortedwts:
 	fs.write("{}\n".format(w))
 fs.close()
 
-import powerlaw
+
 data = sortedwts #data can be list or Numpy array
 results = powerlaw.Fit(data,method="KS")
 print "POWER LAW FIT RESULTS"
