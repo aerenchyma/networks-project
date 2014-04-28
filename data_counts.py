@@ -128,9 +128,9 @@ for key in perc_shared_domains:
 	if shared_domains[key] == 0:
 		print key
 	else:
-		if perc_shared_domains[key] > (float(1)/1103)*100:
-			G.add_edge(key[0],key[1],weight=perc_shared_domains[key]*100)#{'weight':perc_shared_domains[key]*100})
-
+		#if perc_shared_domains[key] > (float(1)/1103)*100: # thresholding
+		#	G.add_edge(key[0],key[1],weight=perc_shared_domains[key]*100)#{'weight':perc_shared_domains[key]*100})
+		G.add_edge(key[0],key[1],weight=perc_shared_domains[key]*100)
 vals = sorted([G[n[0]][n[1]]['weight'] for n in G.edges()])
 #values = [int(10*(G[n[0]][n[1]]['weight'])) for n in G.edges()] # ?????
 jet = cm = plt.get_cmap('jet') 
@@ -145,6 +145,11 @@ for i in range(len([int(G[n[0]][n[1]]['weight']) for n in G.edges()])):
       # print [G[n[0]][n[1]]['weight'] for n in G.edges()][i]
       # print colorVal
       colorList.append(colorVal)
+
+deg_dist = []
+for n in G.nodes():
+	deg_dist.append(G.degree(n))
+print deg_dist
 
 #print colorList
 nx.draw_random(G,edge_color=colorList,font_size="18",font_weight="bold",bbox="m")
